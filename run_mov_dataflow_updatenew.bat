@@ -1,0 +1,1 @@
+C:\Users\kylec\AppData\Local\Programs\Python\Python39\python.exe C:\Users\kylec\AppData\Local\Programs\Python\Python39\Scripts\movie_data_flow\movie_data_flow_updatenew.py %*
