@@ -5,6 +5,8 @@ This is the Python script which automates the data pulls and transformations tha
 
 [![tableau](https://img.shields.io/badge/view_the_dashboard_on_tableau_public-1DA1F2?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/kyle.ross6552/viz/PersonalMovieDashboard-BehaviouralIMDbAnalysis/WatchBehaviour)
 
+<img src="https://github.com/Kyle-Ross/Movie-Tracker-Data-Flow/blob/main/Images/Movie%20Tracker%201%20-%20Watch%20Behaviour.png?raw=true" width="45%"></img> <img src="https://github.com/Kyle-Ross/Movie-Tracker-Data-Flow/blob/main/Images/Movie%20Tracker%203%20-%20Plot%20View%20Example.png?raw=true" width="45%"></img> <img src="https://github.com/Kyle-Ross/Movie-Tracker-Data-Flow/blob/main/Images/Movie%20Tracker%202%20-%20Movie%20Details.png?raw=true" width="45%"></img> <img src="https://github.com/Kyle-Ross/Movie-Tracker-Data-Flow/blob/main/Images/Movie%20Tracker%204%20-%20Plot%20View%20Example.png?raw=true" width="45%"></img> 
+
 ## About
 
 My name is Kyle Ross, and I've been recording any movies I've watched for the last several years. Long-term, I wanted to run an analysis on my movie watching behaviours as a data analytics project.
