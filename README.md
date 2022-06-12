@@ -13,7 +13,7 @@ My name is Kyle Ross, and I've been recording any movies I've watched for the la
 
 This dashboard is a live, interactive analysis of my movie watching behaviours and habits. Through the backend processes I have implemented the datasource is automatically kept up to date with any new movies I watch and the latest data from the IMDb API.
 
-The code I here is what makes the dashboard on Tableau possible and automates the data processing and collection for me. All I have to is add some basic details on a google sheet each time I finish a movie.
+The code here is what makes the dashboard on Tableau possible and automates the data processing and collection for me. All I have to is add some basic details on a google sheet each time I finish a movie.
 
 Through these dashboards you can get to know me a little better, see what movies I have been watching and see a demonstration of my Tableau, Python & Database skills.
 
